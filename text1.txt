@@ -1,2 +1,3 @@
 Sample file for test.
 TEST TEST TEST
+test test
